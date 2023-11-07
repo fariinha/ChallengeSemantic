@@ -71,6 +71,8 @@ h1 span {
 }
 
 p {
+  width: 438px;
+
   font-size: 14px;
   line-height: 28px;
   color: #7d7987;
@@ -95,6 +97,10 @@ button {
   border-radius: 4px;
 
   cursor: pointer;
+}
+
+button:hover {
+  background: #5ba78c;
 }
 
 footer {
